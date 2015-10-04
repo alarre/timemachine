@@ -1,6 +1,6 @@
 {
   "name": "timemachine",
-  "version": "0.2.6",
+  "version": "0.2.7-meli",
   "description": "Test your time critical app by overriding the native Javascript Date function",
   "main": "timemachine.js",
   "directories": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/schickling/timemachine.git"
+    "url": "https://github.com/alarre/timemachine.git"
   },
   "keywords": [
     "time",
@@ -28,7 +28,7 @@
   "author": "Johannes Schickling <schickling.j@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/schickling/timemachine/issues"
+    "url": "https://github.com/alarre/timemachine/issues"
   },
   "devDependencies": {
     "coveralls": "~2.6.1",
